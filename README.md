@@ -2,7 +2,7 @@
 This is an experimental bot that does the task of collecting coingecko candy. This reduces the everyday task and helps in maximizing your candy holding. Please this BOT should be treated as an experiment only . There are considerable time delay implementation in the process to avoid detection.
 
 # Library
-This bot make use of undetectabele chrome driver (selenuim )
+This bot make use of undetected chrome driver (selenuim )
 InstaLL >>  **pip install undetected-chromedriver**
 
 # Caution
